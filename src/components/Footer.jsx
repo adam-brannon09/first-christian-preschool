@@ -4,19 +4,21 @@ function Footer() {
             <footer className="footer p-10 bg-base-200 text-base-content ">
                 <nav>
                     <header className="footer-title">Address</header>
-                    <p>First Christian Preschool
-                        <br />
-                        225 S. 11th St.
-                        <br />
-                        Defuniak Springs, FL 32435
-                        <br />
-                        LICENSE #: C01WA0018</p>
+                    <a href="https://www.google.com/maps/place/First+Christian+Preschool/@30.7181516,-86.1203792,17z/data=!3m1!4b1!4m6!3m5!1s0x8893d1bec7c55555:0x2a7aa3efe9304c30!8m2!3d30.7181516!4d-86.1178043!16s%2Fg%2F11ghr0wmb3?entry=ttu">
+                        <p>First Christian Preschool
+                            <br />
+                            225 S. 11th St.
+                            <br />
+                            Defuniak Springs, FL 32435
+                            <br />
+                            LICENSE #: C01WA0018</p>
+                    </a>
                 </nav>
                 <nav>
                     <header className="footer-title">Contact</header>
-                    <a className="link link-hover">(850) 951-1225</a>
-                    <a className="link link-hover">Email</a>
-                    <a className="link link-hover">Facebook</a>
+                    <a href="tel:8509511225" className="link link-hover">(850) 951-1225</a>
+                    <a href="mailto:aprilmurphyfcp@gmail.com" className="link link-hover">Email</a>
+                    <a href="https://www.facebook.com/firstchristianpreschool.net" className="link link-hover">Facebook</a>
                 </nav>
                 <nav>
                     <header className="footer-title">Hours</header>
