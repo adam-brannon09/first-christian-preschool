@@ -1,6 +1,7 @@
 import Home from './pages/Home';
 import NotFound from './pages/NotFound';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import GoogleFontLoader from 'react-google-fonts';
 
 
 function App() {

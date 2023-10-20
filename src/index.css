@@ -6,6 +6,10 @@
 	height: 450px;
 }
 
+.navbar {
+	height: 120px;
+}
+
 .hero-bg {
 	background-image: url("./assets/fcp_logo.png");
 	background-size: 60% auto;
