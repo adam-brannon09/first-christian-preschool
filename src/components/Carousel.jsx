@@ -7,7 +7,7 @@ import Teachers from '../assets/teachers.jpeg'
 
 function Carousel() {
     return (
-        <div className="carousel carousel-center bg-info py-3">
+        <div className="carousel carousel-center bg-primary py-3">
             <div className="carousel-item">
                 <img src={Teachers} />
             </div>

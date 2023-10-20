@@ -5,3 +5,9 @@
 .carousel-item {
 	height: 450px;
 }
+
+.hero-bg {
+	background-image: url("./assets/fcp_logo.png");
+	background-size: 60% auto;
+	background-repeat: no-repeat;
+}
