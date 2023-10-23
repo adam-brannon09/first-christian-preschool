@@ -9,16 +9,16 @@ import Navbar from "../components/Navbar"
 
 function Home() {
     return (
-        <>
-            <Navbar />
+        <div>
+            {/* <Navbar /> */}
             <About />
+            <Carousel />
             <Mission />
             <Staff />
-            <Carousel />
             <Enrollment />
             <Contact />
             <Footer />
-        </>
+        </div>
     )
 }
 export default Home

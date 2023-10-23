@@ -24,7 +24,7 @@ function Footer() {
                     <header className="footer-title">Hours</header>
                     <p>Monday - Friday: 8am - 5:30pm</p>
                     <br />
-                    <header>License</header>
+                    <header className="footer-title">License</header>
                     <p>License #: C01WA0018</p>
                 </nav>
 

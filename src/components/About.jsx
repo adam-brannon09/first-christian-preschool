@@ -1,11 +1,12 @@
 import Navbar from "./Navbar"
 import Logo from "../assets/fcp_logo.png"
+import Teachers from "../assets/teachers.jpeg"
 
 function About() {
     return (
         <div>
-            {/* <Navbar /> */}
-            <div className="hero min-h-screen ">
+            <Navbar />
+            <div className="hero min-h-screen  text-white" style={{ backgroundColor: "#F875AA" }}>
                 <div className="hero-content flex-col lg:flex-row">
                     <img src={Logo} className="max-w-sm rounded-lg shadow-2xl" />
                     <div>
@@ -17,8 +18,8 @@ function About() {
             </div>
         </div>
 
-        // <div className="hero hero-bg min-h-screen">
-        //     <div className="hero-overlay bg-opacity-30"></div>
+        // <div className="hero hero-bg min-h-screen" >
+        //     <div className=" "></div>
         //     <div className="hero-content text-center text-neutral-content">
         //         <div className="max-w-md">
         //             <h1 className="mb-5 text-5xl font-bold">Hello there</h1>

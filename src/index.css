@@ -10,12 +10,12 @@ body {
 	height: 450px;
 }
 
-.navbar {
+/* .navbar {
 	height: 120px;
-}
+} */
 
 .hero-bg {
-	background-image: url("./assets/fcp_logo.png");
-	background-size: 60% auto;
+	background-image: url("./assets/teachers.jpeg");
+	background-size: 100% 85%;
 	background-repeat: no-repeat;
 }
