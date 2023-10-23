@@ -8,7 +8,7 @@ function Enrollment() {
         <div className="hero min-h-screen bg-teal-300" id="enrollment">
             <div className="hero-content text-center">
                 <div className="max-w-md">
-                    <h1 className="text-5xl text-teal-700 font-bold pb-5">Enrollment Requirements</h1>
+                    <h1 className="text-5xl text-white font-bold pb-5">Enrollment Requirements</h1>
                     <TwoRequirement />
                     <ThreeRequirement />
                     <FourRequirement />

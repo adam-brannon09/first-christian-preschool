@@ -2,7 +2,7 @@ import { FaFacebook, FaEnvelope, FaPhoneAlt } from 'react-icons/fa'
 
 function Contact() {
     return (
-        <div className="hero min-h-screen bg-rose-300" id='contact'>
+        <div className="hero min-h-screen bg-rose-400" id='contact'>
             <div className="hero-content text-center">
                 <div className="max-w-md">
                     <h1 className="text-5xl text-white font-bold">Get in Touch!</h1>
