@@ -7,11 +7,11 @@ import Teachers from '../assets/teachers.jpeg'
 
 function Carousel() {
     return (
-        <div className="carousel carousel-center bg-white py-1">
+        <div className="carousel carousel-center mt-5 bg-white  shadow-l">
             <div className="carousel-item">
                 <img src={Teachers} />
             </div>
-            <div className="carousel-item">
+            <div className="carousel-item ">
                 <img src={Firetruck} />
             </div>
             <div className="carousel-item">
@@ -28,6 +28,7 @@ function Carousel() {
             </div>
 
         </div>
+
     )
 }
 export default Carousel

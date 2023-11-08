@@ -3,7 +3,7 @@ import Building from "../assets/building.jpeg"
 
 function Mission() {
     return (
-        <div className="hero min-h-screen bg-violet-500 text-white border-shadow" id="philosophy">
+        <div className="hero min-h-screen border-shadow background text-white" id="philosophy">
             <div className="hero-content flex-col lg:flex-row-reverse">
                 <img src={Building} className="max-w-md rounded-lg shadow-1xl" />
                 <div>

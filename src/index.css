@@ -3,19 +3,44 @@
 @tailwind utilities;
 
 body {
-	font-family: "Playpen Sans", cursive;
+	font-family: "Montserrat", sans-serif;
 }
 
-.carousel-item {
-	height: 450px;
+.nav2 {
+	background-color: #ffffff;
+	height: 1rem;
+	color: black;
 }
 
-/* .navbar {
-	height: 120px;
-} */
+.carousel {
+	height: 34rem;
+}
 
-.hero-bg {
-	background-image: url("./assets/teachers.jpeg");
-	background-size: 100% 85%;
-	background-repeat: no-repeat;
+@media (max-width: 768px) {
+	.carousel {
+		height: 20rem;
+	}
+}
+
+.icon {
+	color: #ff6f61;
+}
+
+.background {
+	background-color: #ff6f61;
+}
+
+.contact {
+	color: #ff6f61;
+}
+
+.btn-outline {
+	background-color: #ff6f61;
+	color: white;
+	border: #ff6f61;
+}
+.btn-outline:hover {
+	background-color: white;
+	color: #ff6f61;
+	border: #ff6f61;
 }

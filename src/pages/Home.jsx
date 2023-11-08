@@ -10,9 +10,9 @@ import Navbar from "../components/Navbar"
 function Home() {
     return (
         <div>
-            {/* <Navbar /> */}
-            <About />
+            <Navbar />
             <Carousel />
+            <About />
             <Mission />
             <Staff />
             <Enrollment />
