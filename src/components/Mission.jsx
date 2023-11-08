@@ -2,6 +2,8 @@ import Building from "../assets/building.jpeg"
 
 
 function Mission() {
+
+
     return (
         <div className="hero min-h-screen border-shadow background text-white" id="philosophy">
             <div className="hero-content flex-col lg:flex-row-reverse paragraph-mobile">

@@ -19,8 +19,7 @@ body {
 
 @media (max-width: 640px) {
 	.carousel {
-		height: 9rem;
-		width: auto;
+		display: none;
 	}
 	.paragraph-mobile {
 		width: 100%;
