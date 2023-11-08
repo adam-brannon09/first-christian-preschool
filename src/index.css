@@ -16,9 +16,19 @@ body {
 	height: 34rem;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 640px) {
 	.carousel {
 		height: 20rem;
+		width: auto;
+	}
+	.paragraph-mobile {
+		width: 100%;
+		margin: 20px auto;
+		text-align: center;
+	}
+
+	.paragraph-mobile p {
+		font-size: 1.5rem;
 	}
 }
 
