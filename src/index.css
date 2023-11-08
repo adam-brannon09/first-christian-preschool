@@ -4,6 +4,7 @@
 
 body {
 	font-family: "Montserrat", sans-serif;
+	width: 100%;
 }
 
 .nav2 {
@@ -18,7 +19,7 @@ body {
 
 @media (max-width: 640px) {
 	.carousel {
-		height: 20rem;
+		height: 8rem;
 		width: auto;
 	}
 	.paragraph-mobile {

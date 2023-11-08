@@ -7,7 +7,7 @@ import Teachers from '../assets/teachers.jpeg'
 
 function Carousel() {
     return (
-        <div className="carousel carousel-center mt-5 bg-white  shadow-l">
+        <div className="carousel carousel-center sm:h-32 mt-5 bg-white  shadow-l">
             <div className="carousel-item">
                 <img src={Teachers} />
             </div>
