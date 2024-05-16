@@ -1,4 +1,4 @@
-import Building from "../assets/building.jpeg"
+import Building from "../assets/building.jpg"
 
 
 function Mission() {
@@ -7,7 +7,7 @@ function Mission() {
     return (
         <div className="hero min-h-screen border-shadow background text-white" id="philosophy">
             <div className="hero-content flex-col lg:flex-row-reverse paragraph-mobile">
-                <img src={Building} className=" shrink sm:max-w-sm lg:max-w-md rounded-lg shadow-1xl" />
+                <img src={Building} className="shrink sm:max-w-sm lg:max-w-md rounded-lg shadow-1xl" />
                 <div>
                     <h1 className="text-5xl text-center font-bold">Our Philosophy</h1>
                     <p className="py-6 text-2xl">
