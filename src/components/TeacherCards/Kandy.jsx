@@ -3,7 +3,7 @@ import MrsKandy from "../../assets/teacherHeadshots/kandyHeadshot.jpg";
 
 function Kandy() {
   return (
-    <div className="card w-1/4 bg-base-100 shadow-xl p-10 my-10 mx-auto">
+    <div className="card bg-base-100 w-96 shadow-xl">
           <figure>
             <img src={MrsKandy} alt="Teacher" />
           </figure>

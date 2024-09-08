@@ -3,7 +3,7 @@ import Kimberlyn from "../../assets/teacherHeadshots/kimberlynHeadshot.jpg";
 
 function Wright() {
   return (
-    <div className="card w-1/4 bg-base-100 shadow-xl p-10 my-10 mx-auto">
+    <div className="card bg-base-100 w-96 shadow-xl">
           <figure>
             <img src={Kimberlyn} alt="Teacher" />
           </figure>

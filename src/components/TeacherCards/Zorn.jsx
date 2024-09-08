@@ -1,17 +1,21 @@
 import React from 'react'
 import MrsZorn from "../../assets/teacherHeadshots/zornHeadshot.jpg";
+import April from "../../assets/teacherHeadshots/AprilHeadshot.jpg";
 
 function Zorn() {
   return (
-    <div className="card w-1/4 bg-base-100 shadow-xl p-10 my-10 mx-auto">
+    <div className="card bg-base-100 w-96 shadow-xl">
           <figure>
             <img src={MrsZorn} alt="Teacher" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Mrs. Zorn <br /> VPK Aide</h2>
-            {/* <p>This is a teachers bio</p> */}
+            <h2 className="card-title">
+              April Murphy <br /> FCP Director
+            </h2>
+            {/* <h2 className="card-title">FCP Director</h2> */}
+            {/* <p>This is teachers bio</p> */}
             <div className="card-actions justify-end">
-              <button className="btn btn-primary text-white">My Bio</button>
+              <button className="btn btn-secondary text-white">April's Bio</button>
             </div>
           </div>
         </div>
