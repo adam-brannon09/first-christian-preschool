@@ -1,5 +1,6 @@
 
 import April from "../../assets/teacherHeadshots/AprilHeadshot.jpg";
+import { Link } from "react-router-dom";
 
 function Murphy() {
   return (
@@ -14,7 +15,7 @@ function Murphy() {
             {/* <h2 className="card-title">FCP Director</h2> */}
             {/* <p>This is teachers bio</p> */}
             <div className="card-actions justify-end">
-              <button className="btn btn-secondary text-white">April's Bio</button>
+              <Link to='/murphybio' className="btn btn-secondary text-white">April's Bio</Link>
             </div>
           </div>
         </div>

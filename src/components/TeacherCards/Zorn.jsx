@@ -1,6 +1,6 @@
-import React from 'react'
+import { Link } from "react-router-dom";
 import MrsZorn from "../../assets/teacherHeadshots/zornHeadshot.jpg";
-import April from "../../assets/teacherHeadshots/AprilHeadshot.jpg";
+
 
 function Zorn() {
   return (
@@ -10,12 +10,12 @@ function Zorn() {
           </figure>
           <div className="card-body">
             <h2 className="card-title">
-              April Murphy <br /> FCP Director
+              Cheryl Zorn <br /> VPK Assistant
             </h2>
             {/* <h2 className="card-title">FCP Director</h2> */}
             {/* <p>This is teachers bio</p> */}
             <div className="card-actions justify-end">
-              <button className="btn btn-secondary text-white">April's Bio</button>
+              <Link to='/zornbio' className="btn btn-secondary text-white">Cheryl's Bio</Link>
             </div>
           </div>
         </div>
