@@ -20,7 +20,7 @@ function DeramusBio() {
             children and missed working at FCP! I am so excited to help your
             children learn and grow!
           </p>
-          <Link to="/" className="btn btn-primary">
+          <Link to="/deramusbio" className="btn btn-primary">
             Back
           </Link>
         </div>
