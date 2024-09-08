@@ -6,12 +6,14 @@ import Enrollment from "../components/Enrollment"
 import Contact from "../components/Contact"
 import Footer from "../components/Footer"
 import Navbar from "../components/Navbar"
+import Hero from "../components/Hero"
 
 function Home() {
     return (
         <div>
             <Navbar />
-            <Carousel />
+            {/* <Carousel /> */}
+            <Hero />
             <About />
             <Mission />
             <Staff />

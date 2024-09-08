@@ -2,7 +2,7 @@ import VerticalContact from "./VerticalContact"
 
 function About() {
     return (
-        <div className="flex flex-wrap w-full min-h-screen lg:flex-row my-9 place-content-center " id="about">
+        <div className="flex flex-wrap w-full my-10 lg:flex-row place-content-center " id="about">
 
             <div className=" grid flex w-1/2 card place-items-center ml-8 paragraph-mobile">
                 <h1 className="font-bold text-3xl justify-center">Welcome To First Christian Preschool</h1>

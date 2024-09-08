@@ -5,7 +5,7 @@ function Navbar() {
     return (
         <>
             <div className="navbar justify-end background">
-                <h1 className="text-white text-center">First Christian Preschool</h1>
+                <h1 className="text-white text-center mr-8">First Christian Preschool</h1>
                 <a href="tel:8509511225" className="btn btn-ghost font-bold text-white"><FaPhoneAlt />CALL</a>
 
                 <a href="mailto:aprilmurphyfcp@gmail.com" className="btn btn-ghost font-bold text-white"><FaEnvelope />EMAIL</a>
