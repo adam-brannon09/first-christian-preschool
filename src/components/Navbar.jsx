@@ -1,5 +1,11 @@
 import Logo from "../assets/fcp_logo.png"
 import { FaEnvelope, FaPhoneAlt } from 'react-icons/fa'
+import Calender from "../assets/documents/fcpCalendar.pdf"
+import Handbook from "../assets/documents/vpkHandbook.pdf"
+import Aftercare from "../assets/documents/aftercareHandbook.pdf"
+import SupplyList from "../assets/documents/schoolSupplyList.pdf"
+import Rates from "../assets/documents/rates.pdf"
+import Enrollment from "../assets/documents/enrollment.pdf"
 
 function Navbar() {
     return (
@@ -39,9 +45,10 @@ function Navbar() {
                             <details>
                                 <summary>Resources</summary>
                                 <ul className="p-2">
-                                    <li><a>School Calender</a></li>
-                                    <li><a>Our Handbook</a></li>
-                                    <li><a>Supply List</a></li>
+                                    <li><a href={Calender} target="_blank">School Calender</a></li>
+                                    <li><a href={Handbook} target="_blank">VPK Handbook</a></li>
+                                    <li><a href={Aftercare} target="_blank">Aftercare Handbook</a></li>
+                                    <li><a href={SupplyList} target="_blank">Supply List</a></li>
                                 </ul>
                             </details>
                         </ul>
@@ -58,9 +65,10 @@ function Navbar() {
                             <details>
                                 <summary>Resources</summary>
                                 <ul className="p-2">
-                                    <li><a>School Calender</a></li>
-                                    <li><a>Our Handbook</a></li>
-                                    <li><a>Supply List</a></li>
+                                    <li><a href={Calender} target="_blank">School Calender</a></li>
+                                    <li><a href={Handbook} target="_blank">VPK Handbook</a></li>
+                                    <li><a href={Aftercare} target="_blank">Aftercare Handbook</a></li>
+                                    <li><a href={SupplyList} target="_blank">Supply List</a></li>
                                 </ul>
                             </details>
                         </li>

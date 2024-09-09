@@ -11,7 +11,7 @@ function Enrollment() {
                     <h1 className="text-3xl text-white font-bold pb-5">Enrollment Requirements</h1>
                     <TwoRequirement />
                     <ThreeRequirement />
-                    <FourRequirement />
+                    {/* <FourRequirement /> */}
                     <VpkRequirement />
                 </div>
             </div>
