@@ -48,6 +48,7 @@ function Navbar() {
                                     <li><a href={Calender} target="_blank">School Calender</a></li>
                                     <li><a href={Handbook} target="_blank">VPK Handbook</a></li>
                                     <li><a href={Aftercare} target="_blank">Aftercare Handbook</a></li>
+                                    <li><a href={Rates} target="_blank">Tuition</a></li>
                                     <li><a href={SupplyList} target="_blank">Supply List</a></li>
                                 </ul>
                             </details>
@@ -68,6 +69,7 @@ function Navbar() {
                                     <li><a href={Calender} target="_blank">School Calender</a></li>
                                     <li><a href={Handbook} target="_blank">VPK Handbook</a></li>
                                     <li><a href={Aftercare} target="_blank">Aftercare Handbook</a></li>
+                                    <li><a href={Rates} target="_blank">Tuition</a></li>
                                     <li><a href={SupplyList} target="_blank">Supply List</a></li>
                                 </ul>
                             </details>
