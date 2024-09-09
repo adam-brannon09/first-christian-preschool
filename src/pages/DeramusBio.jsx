@@ -1,17 +1,17 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import Zorn from '../components/TeacherBios/ZornBioCom'
+import Deramus from '../components/TeacherBios/DeramusBioCom'
 
-function ZornBio() {
+function DeramusBio() {
   return (
     <div>
             <Navbar />
-            <Zorn />
+            <Deramus />
             <Footer />
         </div>
   )
 }
 
-export default ZornBio
+export default DeramusBio
 

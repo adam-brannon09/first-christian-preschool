@@ -11,7 +11,7 @@ function Edwards() {
             <h2 className="card-title">Amanda Edwards <br /> VPK A Lead </h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
-                    <Link to='/givensbio' className="btn btn-primary text-white">Mrs.Edward's Bio</Link>
+                    <Link to='/givensbio' className="btn btn-primary text-white">Amanda's Bio</Link>
                 </div>
           </div>
         </div>

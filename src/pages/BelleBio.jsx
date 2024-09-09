@@ -1,17 +1,17 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import Zorn from '../components/TeacherBios/ZornBioCom'
+import Belle from '../components/TeacherBios/BelleBioCom'
 
-function ZornBio() {
+function BelleBio() {
   return (
     <div>
             <Navbar />
-            <Zorn />
+            <Belle />
             <Footer />
         </div>
   )
 }
 
-export default ZornBio
+export default BelleBio
 

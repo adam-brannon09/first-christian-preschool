@@ -1,4 +1,4 @@
-import React from 'react'
+import { Link } from "react-router-dom";
 import MrsDeRamus from "../../assets/teacherHeadshots/deramusHeadshot.jpg";
 
 function DeRamus() {
@@ -11,7 +11,7 @@ function DeRamus() {
             <h2 className="card-title">Chelsea DeRamus <br /> Preschool Aide</h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
-              <button className="btn btn-primary text-white">My Bio</button>
+              <Link className="btn btn-primary text-white">Chelsea's' Bio</Link>
             </div>
           </div>
         </div>

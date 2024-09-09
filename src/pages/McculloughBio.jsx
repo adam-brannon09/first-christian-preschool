@@ -1,17 +1,17 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import Zorn from '../components/TeacherBios/ZornBioCom'
+import Mccullough from '../components/TeacherBios/McculloughBioCom'
 
-function ZornBio() {
+function McculloughBio() {
   return (
     <div>
             <Navbar />
-            <Zorn />
+            <Mccullough />
             <Footer />
         </div>
   )
 }
 
-export default ZornBio
+export default McculloughBio
 

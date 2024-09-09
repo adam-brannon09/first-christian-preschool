@@ -1,4 +1,4 @@
-import React from 'react'
+import { Link } from "react-router-dom";
 import MrsKandy from "../../assets/teacherHeadshots/kandyHeadshot.jpg";
 
 function Kandy() {
@@ -11,7 +11,7 @@ function Kandy() {
             <h2 className="card-title">Kandy Kaminski<br /> Two's Teacher </h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
-                    <button className="btn btn-primary text-white">My Bio</button>
+                    <Link className="btn btn-primary text-white">Kandy's' Bio</Link>
                 </div>
           </div>
         </div>
