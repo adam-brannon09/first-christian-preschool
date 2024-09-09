@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import MrsGivens from "../../assets/teacherHeadshots/marthaHeadhshot.jpg";
+import MrsGivens from "../../assets/teacherHeadshots/marthaHeadshot.jpg";
 
 
 function Givens() {

@@ -16,7 +16,7 @@ function Hero() {
         <div className="max-w-md">
           <h1 className="mb-5 text-5xl font-bold text-white">First Christian Preschool</h1>
           <p className="mb-5 text-white text-2xl">
-            A Ministry of First Christian Church of Defuniak Springs, Florida
+            A Ministry of First Baptist Church of Defuniak Springs, Florida
           </p>
           {/* <button className="btn btn-primary">Get Started</button> */}
         </div>
