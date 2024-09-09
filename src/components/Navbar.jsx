@@ -50,6 +50,7 @@ function Navbar() {
                                     <li><a href={Aftercare} target="_blank">Aftercare Handbook</a></li>
                                     <li><a href={Rates} target="_blank">Tuition</a></li>
                                     <li><a href={SupplyList} target="_blank">Supply List</a></li>
+                                    <li><a href="https://www.remind.com/apps">Remind App</a></li>
                                 </ul>
                             </details>
                         </ul>
@@ -71,6 +72,7 @@ function Navbar() {
                                     <li><a href={Aftercare} target="_blank">Aftercare Handbook</a></li>
                                     <li><a href={Rates} target="_blank">Tuition</a></li>
                                     <li><a href={SupplyList} target="_blank">Supply List</a></li>
+                                    <li><a href="https://www.remind.com/apps">Remind App</a></li>
                                 </ul>
                             </details>
                         </li>
