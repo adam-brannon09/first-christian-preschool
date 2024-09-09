@@ -1,12 +1,12 @@
 import { Link } from "react-router-dom";
-import Kimberlyn from "../../assets/teacherHeadshots/kimberlynHeadshot.jpg";
+import Kymberlyn from "../../assets/teacherHeadshots/kimberlynHeadshot.jpg";
 
 function WrightBio() {
   return (
     <div className="hero bg-base-200 min-h-screen">
   <div className="hero-content flex-col lg:flex-row-reverse">
     <img
-      src={Kimberlyn}
+      src={Kymberlyn}
       className="max-w-sm rounded-lg shadow-2xl" />
     <div>
       <h1 className="text-5xl font-bold">Mrs. Wright</h1>
