@@ -11,7 +11,7 @@ function Kandy() {
             <h2 className="card-title">Kandy Kaminski<br /> Two's Teacher </h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
-                    <Link className="btn btn-primary text-white">Kandy's' Bio</Link>
+                    <Link to='kandyBio' className="btn btn-outline text-white">Kandy's' Bio</Link>
                 </div>
           </div>
         </div>

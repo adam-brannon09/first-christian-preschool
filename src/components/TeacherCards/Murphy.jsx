@@ -15,7 +15,7 @@ function Murphy() {
             {/* <h2 className="card-title">FCP Director</h2> */}
             {/* <p>This is teachers bio</p> */}
             <div className="card-actions justify-end">
-              <Link to='/murphybio' className="btn btn-secondary text-white">April's Bio</Link>
+              <Link to='/murphyBio' className="btn btn-outline text-white">April's Bio</Link>
             </div>
           </div>
         </div>

@@ -21,9 +21,7 @@ function ZornBio() {
             since 2017. I am excited to continue on this path God has for me and
             I can’t wait to see your children grow in Jesus!
           </p>
-          <Link to="/" className="btn btn-primary">
-            Back
-          </Link>
+          <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
         </div>
       </div>
     </div>

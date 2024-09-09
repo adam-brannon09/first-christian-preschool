@@ -15,7 +15,7 @@ function Zorn() {
             {/* <h2 className="card-title">FCP Director</h2> */}
             {/* <p>This is teachers bio</p> */}
             <div className="card-actions justify-end">
-              <Link to='/zornbio' className="btn btn-secondary text-white">Cheryl's Bio</Link>
+              <Link to='/zornBio' className="btn btn-outline text-white">Cheryl's Bio</Link>
             </div>
           </div>
         </div>

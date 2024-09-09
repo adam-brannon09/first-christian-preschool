@@ -12,7 +12,7 @@ function Wright() {
             <h2 className="card-title">Kimberlyn Wright <br /> Assistant Director / VPK A Lead</h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
-            <Link to='/wrightbio' className="btn btn-secondary text-white">Kimberlyn's Bio</Link>
+            <Link to='/wrightBio' className="btn btn-outline text-white">Kimberlyn's Bio</Link>
                 </div>
           </div>
         </div>

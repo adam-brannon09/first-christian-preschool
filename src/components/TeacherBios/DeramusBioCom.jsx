@@ -7,7 +7,7 @@ function DeramusBio() {
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img src={Chelsea} className="max-w-sm rounded-lg shadow-2xl" />
         <div>
-          <h1 className="text-5xl font-bold">Mrs. Edwards</h1>
+          <h1 className="text-5xl font-bold">Mrs. Deramus</h1>
           <p className="py-6">
             Hi! My name is Chelsea DeRamus and I am a Preschool Assistant at
             First Christian Preschool and a realtor with EXP. Realty! I have
@@ -20,9 +20,7 @@ function DeramusBio() {
             children and missed working at FCP! I am so excited to help your
             children learn and grow!
           </p>
-          <Link to="/deramusbio" className="btn btn-primary">
-            Back
-          </Link>
+          <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
         </div>
       </div>
     </div>

@@ -10,7 +10,7 @@ function Lloyd() {
             <h2 className="card-title">Katelyn Lloyd <br /> Two's Teacher </h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
-                    <Link to='/lloydsbio' className="btn btn-primary text-white">Katelyn's Bio</Link>
+                    <Link to='/lloydBio' className="btn btn-outline text-white">Katelyn's Bio</Link>
                 </div>
           </div>
         </div>

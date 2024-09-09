@@ -25,7 +25,7 @@ am eager to see what God has in store for us.
 Let the fun begin!
  
       </p>
-      <Link to='/' className="btn btn-primary">Back</Link>
+      <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
     </div>
   </div>
 </div>

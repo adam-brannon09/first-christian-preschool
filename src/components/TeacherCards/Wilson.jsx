@@ -10,7 +10,7 @@ function Wilson() {
             <h2 className="card-title">Brittany Wilson <br /> VPK Assistant </h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
-                    <Link to='/givensbio' className="btn btn-primary text-white">Brittany's Bio</Link>
+                    <Link to='/wilsonBio' className="btn btn-outline text-white">Brittany's Bio</Link>
                 </div>
           </div>
         </div>

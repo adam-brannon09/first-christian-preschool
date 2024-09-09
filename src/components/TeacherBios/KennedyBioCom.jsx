@@ -21,9 +21,7 @@ function KennedyBio() {
             and honored to be part of First Christian Preschool, and I am
             looking forward to teaching your children this year!
           </p>
-          <Link to="/" className="btn btn-primary">
-            Back
-          </Link>
+          <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
         </div>
       </div>
     </div>

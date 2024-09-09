@@ -23,7 +23,7 @@ function EdwardsBio() {
             place so if the sun is out, you’ll most likely find me there! I’m so
             excited to learn and grow with our students!
           </p>
-          <Link to='/' className="btn btn-primary">Back</Link>
+          <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
         </div>
       </div>
     </div>

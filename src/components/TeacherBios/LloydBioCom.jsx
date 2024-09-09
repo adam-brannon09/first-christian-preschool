@@ -22,9 +22,7 @@ function LloydBio() {
             world we live in! I am super excited to get to teach and care for
             your children.
           </p>
-          <Link to="/wilsonbio" className="btn btn-primary">
-            Back
-          </Link>
+          <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
         </div>
       </div>
     </div>

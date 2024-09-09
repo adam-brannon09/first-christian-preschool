@@ -1,16 +1,17 @@
+import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import Belle from '../components/TeacherBios/BelleBioCom'
+import Edwards from '../components/TeacherBios/EdwardsBioCom'
 
-function BelleBio() {
+function EdwardsBio() {
   return (
     <div>
             <Navbar />
-            <Belle />
+            <Edwards />
             <Footer />
         </div>
   )
 }
 
-export default BelleBio
+export default EdwardsBio
 

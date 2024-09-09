@@ -35,7 +35,7 @@ function MuphyBio() {
             Reece and Rollyns, who require a lot of our attention! In my free
             time, I enjoy watching NY Giants football, traveling, and shopping!!
           </p>
-          <Link to='/' className="btn btn-primary">Back</Link>
+          <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
         </div>
       </div>
     </div>

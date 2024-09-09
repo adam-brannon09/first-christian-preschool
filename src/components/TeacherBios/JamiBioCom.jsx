@@ -7,7 +7,7 @@ function JamiBio() {
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img src={Jami} className="max-w-sm rounded-lg shadow-2xl" />
         <div>
-          <h1 className="text-5xl font-bold">Mrs. Edwards</h1>
+          <h1 className="text-5xl font-bold">Mrs. Jami</h1>
           <p className="py-6">
             Hello! My name is Mrs. Jami and as the Threes B teacher, I just want
             to share how excited I am for the opportunity to pour love and
@@ -22,9 +22,7 @@ function JamiBio() {
             the heart of God with the most precious beings on earth- all while
             my own little one learns in the classroom next door!
           </p>
-          <Link to="/jamibio" className="btn btn-primary">
-            Back
-          </Link>
+          <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
         </div>
       </div>
     </div>

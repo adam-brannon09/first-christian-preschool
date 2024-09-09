@@ -10,7 +10,7 @@ function Mccullough() {
             <h2 className="card-title">Sandy McCullough <br /> Assistant Director </h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
-                    <Link to='/bellebio' className="btn btn-primary text-white">Sandy's Bio</Link>
+                    <Link to='/mcculloughBio' className="btn btn-outline text-white">Sandy's Bio</Link>
                 </div>
           </div>
         </div>

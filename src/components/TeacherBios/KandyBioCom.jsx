@@ -18,9 +18,7 @@ function KandyBio() {
             learning with the performing arts and fun! It’s an honor to be a
             part of this team!
           </p>
-          <Link to="/kandybio" className="btn btn-primary">
-            Back
-          </Link>
+          <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
         </div>
       </div>
     </div>

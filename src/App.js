@@ -1,4 +1,14 @@
 import Home from './pages/Home';
+import BelleBio from './pages/BelleBio';
+import Deramus from './pages/DeramusBio';
+import Givens from './pages/GivensBio';
+import Jami from './pages/JamiBio';
+import Kennedy from './pages/KennedyBio';
+import Kandy from './pages/KandyBio';
+import Edwards from './pages/EdwardsBio';
+import Lloyd from './pages/LloydBio';
+import Mccullough from './pages/McculloughBio';
+import Wilson from './pages/WilsonBio';
 import MurphyBio from './pages/MurphyBio';
 import WrightBio from './pages/WrightBio';
 import ZornBio from './pages/ZornBio';
@@ -12,6 +22,16 @@ function App() {
     <Router>
       <Routes>
         <Route path='/' element={<Home />} />
+        <Route path='/bellebio' element={<BelleBio />} />
+        <Route path='/deramusbio' element={<Deramus />} />
+        <Route path='/givensbio' element={<Givens />} />
+        <Route path='/jamibio' element={<Jami />} />
+        <Route path='/kennedybio' element={<Kennedy />} />
+        <Route path='/kandybio' element={<Kandy />} />
+        <Route path='/edwardsBio' element={<Edwards />} />
+        <Route path='/lloydbio' element={<Lloyd />} />
+        <Route path='/mcculloughbio' element={<Mccullough />} />
+        <Route path='/wilsonbio' element={<Wilson />} />
         <Route path='/murphybio' element={<MurphyBio />} />
         <Route path='/wrightbio' element={<WrightBio />} />
         <Route path='/zornbio' element={<ZornBio />} />
