@@ -9,19 +9,25 @@ function ZornBio() {
         <div>
           <h1 className="text-5xl font-bold">Mrs. Zorn</h1>
           <p className="py-6 text-lg">
-            Hi! My name is Cheryl Zorn, and I am a VPK Assistant here at First
-            Christian Preschool. I have been married for 43 years, and have two
-            children, four grandchildren and three great grandchildren. I was in
-            the business world for 30 years. The highlights of my career have
-            been in office administration and accounting management. I have also
-            been teaching children of all ages for 20 plus years: from VBS age,
-            all the way up to youth group. Although my career has always been
-            elsewhere, I certainly feel called by God to Early Childhood
-            Development. I have enjoyed teaching at First Christian Preschool
-            since 2017. I am excited to continue on this path God has for me and
-            I can’t wait to see your children grow in Jesus!
+            Hi! My name is Cheryl Zorn, and I am an Afterschool Teacher here at
+            First Christian Preschool. I have been married for 43 years, and
+            have two children, four grandchildren and five great grandchildren.
+            I was in the business world for 30 years. The highlights of my
+            career have been in office administration and accounting management.
+            I have also been teaching children of all ages for 20 plus years:
+            from VBS age, all the way up to youth group. Although my career has
+            always been elsewhere, I certainly feel called by God to Early
+            Childhood Development. I have enjoyed teaching at First Christian
+            Preschool since 2017. I am excited to continue on this path God has
+            for me and I can’t wait to see your children grow in Jesus!
           </p>
-          <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
+          <Link
+            onClick={() => window.history.back()}
+            to="#staff"
+            className="btn btn-outline"
+          >
+            Back
+          </Link>
         </div>
       </div>
     </div>

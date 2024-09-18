@@ -1,17 +1,17 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import Murphy from '../components/TeacherBios/MurphyBioCom'
+import King from '../components/TeacherBios/KingBioCom'
 
-function MurphyBio() {
+function KingBio() {
   return (
     <div>
             <Navbar />
-            <Murphy/>
+            <King />
             <Footer />
         </div>
   )
 }
 
-export default MurphyBio
+export default KingBio
 

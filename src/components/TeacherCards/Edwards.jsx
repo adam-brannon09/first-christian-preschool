@@ -8,7 +8,7 @@ function Edwards() {
             <img src={MrsEdwards} alt="Teacher" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Amanda Edwards <br /> VPK A Lead </h2>
+            <h2 className="card-title">Amanda Edwards <br /> VPK A Teacher </h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
                     <Link to='/edwardsBio' className="btn btn-outline text-white">Amanda's Bio</Link>

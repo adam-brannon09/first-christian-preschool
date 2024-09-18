@@ -1,22 +1,21 @@
 import { Link } from "react-router-dom";
-import MrsGivens from "../../assets/teacherHeadshots/marthaHeadshot.jpg";
+import Lindsey from "../../assets/teacherHeadshots/lanningHeadshot.jpg";
 
-
-function Givens() {
+function Jami() {
   return (
     <div className="card bg-base-100 w-96 shadow-xl">
           <figure>
-            <img src={MrsGivens} alt="Teacher" />
+            <img src={Lindsey} alt="Teacher" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Martha Givens <br /> FCP Custodian </h2>
+            <h2 className="card-title">Lindsey Lanning<br />Three's B Teacher</h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
-            <Link to='/givensBio' className="btn btn-outline text-white">Martha's Bio</Link>
+                    <Link to='/lanningBio'className="btn btn-outline text-white">Lindsey's Bio</Link>
                 </div>
           </div>
         </div>
   )
 }
 
-export default Givens
+export default Jami

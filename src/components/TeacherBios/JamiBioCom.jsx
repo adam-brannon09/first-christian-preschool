@@ -9,20 +9,26 @@ function JamiBio() {
         <div>
           <h1 className="text-5xl font-bold">Mrs. Jami</h1>
           <p className="py-6">
-            Hello! My name is Mrs. Jami and as the Threes B teacher, I just want
-            to share how excited I am for the opportunity to pour love and
-            wisdom into your little one. My approach in the classroom is to
-            treat each child’s needs individually. I love to sing and play and
-            to be silly- I believe that laughter brings joy and joy is an
-            essential component of development. I love teaching little ones
-            about Jesus, teaching them to pray, and showing them how to exhibit
-            kindness and care. To me, being a wife and a mother is the most
-            important role in my life, so I am happy to work in a place where I
-            can use those skills of nurturing, maintaining order, and sharing
-            the heart of God with the most precious beings on earth- all while
-            my own little one learns in the classroom next door!
+            My name is Mrs. Jami and I am beyond excited to be the lead VPK B
+            Teacher. This is my 3rd year in the lead teacher role and I am so
+            excited to begin this year with knowledge and experience! My
+            approach in the classroom is to treat each child's needs
+            individually while instilling core tenets such as teamwork and
+            kindness. Though I tend to be strict when it comes to manners and
+            maintaining a peaceful class environment, I always encourage
+            laughter, dancing, and singing. To me, being a wife and a mother are
+            my most important jobs, however being a teacher is truly my
+            ministry. Aside from teaching numbers and letters to your little
+            ones, I intend to teach them about Jesus, how to pray, and to show
+            them an example of what it means to be a disciple of Christ.
           </p>
-          <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
+          <Link
+            onClick={() => window.history.back()}
+            to="#staff"
+            className="btn btn-outline"
+          >
+            Back
+          </Link>
         </div>
       </div>
     </div>

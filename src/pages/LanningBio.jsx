@@ -1,17 +1,17 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import Murphy from '../components/TeacherBios/MurphyBioCom'
+import Lanning from '../components/TeacherBios/LanningBioCom'
 
-function MurphyBio() {
+function LanningBio() {
   return (
     <div>
             <Navbar />
-            <Murphy/>
+            <Lanning />
             <Footer />
         </div>
   )
 }
 
-export default MurphyBio
+export default LanningBio
 

@@ -20,7 +20,13 @@ function WilsonBio() {
             hunting, fishing and camping adventures. I am so excited to join
             this school and can’t wait to start this chapter!
           </p>
-          <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
+          <Link
+            onClick={() => window.history.back()}
+            to="#staff"
+            className="btn btn-outline"
+          >
+            Back
+          </Link>
         </div>
       </div>
     </div>

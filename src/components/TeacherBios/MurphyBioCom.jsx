@@ -4,7 +4,7 @@ import April from "../../assets/teacherHeadshots/AprilHeadshot.jpg";
 
 function MuphyBio() {
   return (
-    <div className="hero bg-base-200 min-h-screen">
+    <div className="hero bg-base-200 min-h-screen mt-24">
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img src={April} className="max-w-sm rounded-lg shadow-2xl" />
         <div>
@@ -21,21 +21,29 @@ function MuphyBio() {
             here at FCP! My Early Childhood journey has spanned over 25 years,
             and I enjoy bringing those experiences to FCP. I was awarded my
             National Early Childhood Credential in 2005 and a Director’s
-            Credential in 2014. In 2008, we moved from the BIG city to a very
-            small town called Darlington, where we have embraced country living.
-            I married my husband Larry, a chef, in 1994, and together we enjoy
-            our children: Brendon, Kymberlyn, and Griffon. Brendon blessed our
-            family with identical twin girls, Alice and Amelia in 2019, and is
-            planning a wedding for later this year. Kymberlyn married her
-            husband, James in December 2022, and she enjoys teaching at FCP and
-            traveling. Griffon married his wife, Mercedes in 2021 and they had
-            our first grandson, Henry in 2022. They are also expecting another
-            baby boy this July. I get great joy from loving my children and
-            being a Honey to my grandchildren! We also enjoy our Chocolate Labs,
-            Reece and Rollyns, who require a lot of our attention! In my free
-            time, I enjoy watching NY Giants football, traveling, and shopping!!
+            Credential in 2014. In 2008, my family and I moved from the BIG city
+            to a very small town called Darlington, where we embraced country
+            living. I married my husband, Larry, who is a chef, in 1994, and
+            together we enjoy our children: Brendon, Kymberlyn, and Griffon.
+            Brendon blessed our family with identical twin girls, Alice and
+            Amelia, in 2019. He married his wife, Makenzie, this year. Kymberlyn
+            married her husband, James, in December 2022, and is welcoming a
+            baby boy expecting a baby boy, John David, in September; she enjoys
+            teaching here at FCP and traveling. Griffon married his wife,
+            Mercedes, in 2021. They had our first grandson, Henry, in 2022 and
+            welcomed another baby boy, Oliver, this past July. I get great joy
+            from loving my children and being a Honey to my five grandchildren!
+            My husband and I also enjoy our Chocolate Labs, Reece and Rollyns,
+            who require a lot of our attention! In my free time, I enjoy
+            watching NY Giants football, traveling, and shopping!!
           </p>
-          <Link onClick={() => window.history.back()} to="#staff" className="btn btn-outline">Back</Link>
+          <Link
+            onClick={() => window.history.back()}
+            to="#staff"
+            className="btn btn-outline"
+          >
+            Back
+          </Link>
         </div>
       </div>
     </div>

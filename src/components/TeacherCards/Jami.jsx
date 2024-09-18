@@ -8,7 +8,7 @@ function Jami() {
             <img src={MrsJami} alt="Teacher" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Jami <br /> 3B Lead</h2>
+            <h2 className="card-title">Jami <br />VPK B Teacher</h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
                     <Link to='/jamiBio'className="btn btn-outline text-white">Jami's Bio'</Link>
