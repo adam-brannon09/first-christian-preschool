@@ -7,7 +7,24 @@ import Enrollment from "../components/Enrollment"
 import Contact from "../components/Contact"
 import Footer from "../components/Footer"
 
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
+
 function Home() {
+
+    const routerLocation = useLocation();
+
+    useEffect(() => {
+      if (routerLocation.hash) {
+        const el = document.querySelector(routerLocation.hash);
+        if (el) {
+          setTimeout(() => {
+            el.scrollIntoView({ behavior: "smooth" });
+          }, 100);
+        }
+      }
+    }, [routerLocation]);
+
     return (
         <div>
             <Navbar />
