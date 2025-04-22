@@ -58,7 +58,7 @@ function Navbar() {
                     {/* <a className="btn btn-ghost normal-case text-xl">First Christian Preschool</a> */}
                 </div>
                 <div className="navbar-end hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1">
+                    <ul className="menu menu-horizontal px-2">
                         <li><a href="#about">Who We Are</a></li>
                         <li><a href="#staff">Our Teachers</a></li>
                         <li><a href="#enrollment">Enrollment</a></li>

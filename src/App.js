@@ -1,7 +1,6 @@
 import Home from './pages/Home';
 import BelleBio from './pages/BelleBio';
 import Deramus from './pages/DeramusBio';
-import Jami from './pages/JamiBio';
 import Kennedy from './pages/KennedyBio';
 import Kandy from './pages/KandyBio';
 import Edwards from './pages/EdwardsBio';
@@ -25,7 +24,6 @@ function App() {
         <Route path='/' element={<Home />} />
         <Route path='/bellebio' element={<BelleBio />} />
         <Route path='/deramusbio' element={<Deramus />} />
-        <Route path='/jamibio' element={<Jami />} />
         <Route path='/kennedybio' element={<Kennedy />} />
         <Route path='/kandybio' element={<Kandy />} />
         <Route path='/edwardsBio' element={<Edwards />} />

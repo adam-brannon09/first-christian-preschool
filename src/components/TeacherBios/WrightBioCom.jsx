@@ -8,8 +8,8 @@ function WrightBio() {
         <img src={Kymberlyn} className="max-w-sm rounded-lg shadow-2xl" />
         <div>
           <h1 className="text-5xl font-bold">Mrs. Wright</h1>
-          <p className="py-6 text-lg">
-            Hello, my name is Kymberlyn Wright, and I am the Office Manager here
+          <p className="py-6 text-lg mx-14">
+            Hello, my name is Kymberlyn Wright, and I am the VPK Curriculum Specialist here
             at First Christian Preschool. I have been in early childhood
             education since 2016 and my passion is teaching children the love of
             Jesus and working with them to become successful in life! I have

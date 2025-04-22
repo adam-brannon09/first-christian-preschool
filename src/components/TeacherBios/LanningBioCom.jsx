@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Lindsey from "../../assets/teacherHeadshots/lanningHeadshot.jpg";
+import Lindsey from "../../assets/newHeadshots/lindseyHeadshot.jpg";
 
 function LanningBio() {
   return (

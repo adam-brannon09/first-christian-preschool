@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import MrsDeRamus from "../../assets/teacherHeadshots/deramusHeadshot.jpg";
+import MrsDeRamus from "../../assets/teacherHeadshots/Chelsea.jpg";
 
 function DeRamus() {
   return (
