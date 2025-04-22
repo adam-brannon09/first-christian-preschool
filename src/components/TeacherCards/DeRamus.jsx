@@ -8,7 +8,7 @@ function DeRamus() {
             <img src={MrsDeRamus} alt="Teacher" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Chelsea DeRamus <br /> Three's A Teacher</h2>
+            <h2 className="card-title">Chelsea DeRamus <br /> 3's A Teacher</h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
               <Link to='/deramusBio'className="btn btn-outline text-white">Chelsea's' Bio</Link>
