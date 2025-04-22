@@ -3,7 +3,7 @@ import MrsDeRamus from "../../assets/teacherHeadshots/Chelsea.jpg";
 
 function DeRamus() {
   return (
-    <div className="card bg-base-100 w-96 shadow-xl">
+    <div className="card bg-base-100 w-96 shadow-xl" id="deramus">
           <figure className="aspect-[4/5] w-full overflow-hidden">
             <img src={MrsDeRamus} alt="Teacher" />
           </figure>

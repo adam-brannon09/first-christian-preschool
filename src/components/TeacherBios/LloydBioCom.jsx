@@ -23,8 +23,8 @@ function LloydBio() {
             your children.
           </p>
           <Link
-            onClick={() => window.history.back()}
-            to="#staff"
+            
+            to="/#lloyd"
             className="btn btn-outline"
           >
             Back

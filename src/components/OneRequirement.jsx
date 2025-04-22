@@ -19,7 +19,6 @@ function OneRequirement() {
             <li>Must be walking, free of pacifiers & bottles</li>
             <li>Parents provide 2 snacks and a lunch</li>
             <li>$100 enrollment fee</li>
-            <li>Tuition is $850/Month</li>
           </ul>
         </div>
       </div>

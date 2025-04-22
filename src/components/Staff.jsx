@@ -1,8 +1,6 @@
-import Placeholder from "../assets/Female-Placeholder.png";
 import Murphy from "../components/TeacherCards/Murphy";
 import Kimberlyn from "../components/TeacherCards/Wright";
 import Edwards from "../components/TeacherCards/Edwards";
-import Jami from "../components/TeacherCards/Jami";
 import Zorn from "../components/TeacherCards/Zorn";
 import Kennedy from "../components/TeacherCards/Kennedy";
 import Kandy from "../components/TeacherCards/Kandy";
@@ -23,18 +21,18 @@ function Staff() {
       
         
           <div className="mx-auto my-4"><Murphy/></div>
-          <div className="mx-auto my-4"><Kimberlyn /></div>
           <div className="mx-auto my-4"><Mccullough /></div>
-          <div className="mx-auto my-4"><Edwards /></div>
+          <div className="mx-auto my-4"><Kimberlyn /></div>
+          <div className="mx-auto my-4"><Wilson /></div>
           <div className="mx-auto my-4"><Kennedy /></div>
+          <div className="mx-auto my-4"><Edwards /></div>
           <div className="mx-auto my-4"><King /></div>
-          <div className="mx-auto my-4"><Kandy /></div>
           <div className="mx-auto my-4"><DeRamus /></div>
           <div className="mx-auto my-4"><Lanning /></div>
           <div className="mx-auto my-4"><Lloyd/></div>
           <div className="mx-auto my-4"><Belle /></div>
-          <div className="mx-auto my-4"><Wilson /></div>
           <div className="mx-auto my-4"><Zorn /></div>
+          <div className="mx-auto my-4"><Kandy /></div>
 
        
         </section>

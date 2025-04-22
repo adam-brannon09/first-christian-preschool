@@ -18,8 +18,8 @@ function McculloughBio() {
             children learn and grow!
           </p>
           <Link
-            onClick={() => window.history.back()}
-            to="#staff"
+            
+            to="/#mccullough"
             className="btn btn-outline"
           >
             Back

@@ -53,6 +53,7 @@ function Navbar() {
                                     <li><a href={Rates} target="_blank">Tuition</a></li>
                                     <li><a href={SupplyList} target="_blank">Supply List</a></li>
                                     <li><a href="https://www.remind.com/apps">Remind App</a></li>
+                                    <li><a href="https://familyservices.floridaearlylearning.com/">ELC (VPK)</a></li>
                                 </ul>
                             </details>
                         </ul>
@@ -60,7 +61,7 @@ function Navbar() {
                     {/* <a className="btn btn-ghost normal-case text-xl">First Christian Preschool</a> */}
                 </div>
                 <div className="navbar-end hidden lg:flex">
-                    <ul className="menu menu-horizontal px-2">
+                    <ul className="menu menu-horizontal px-6">
                         <li><Link to='/#about'>Who We Are</Link></li>
                         <li><Link to='/#staff'>Our Teachers</Link></li>
                         <li><Link to='/programs'>Programs & Tuition</Link></li>
@@ -69,13 +70,14 @@ function Navbar() {
                         <li tabIndex={0}>
                             <details>
                                 <summary>Resources</summary>
-                                <ul className="p-2">
+                                <ul className="pr-4">
                                     <li><a href={Calender} target="_blank">School Calender</a></li>
-                                    <li><a href={Handbook} target="_blank">VPK Handbook</a></li>
+                                    <li><a href={Handbook} target="_blank">Parent/Student Handbook</a></li>
                                     <li><a href={Aftercare} target="_blank">Aftercare Handbook</a></li>
                                     <li><a href={Rates} target="_blank">Tuition</a></li>
                                     <li><a href={SupplyList} target="_blank">Supply List</a></li>
                                     <li><a href="https://www.remind.com/apps">Remind App</a></li>
+                                    <li><a href="https://familyservices.floridaearlylearning.com/">ELC (VPK)</a></li>
                                 </ul>
                             </details>
                         </li>

@@ -22,8 +22,8 @@ function ZornBio() {
             for me and I can’t wait to see your children grow in Jesus!
           </p>
           <Link
-            onClick={() => window.history.back()}
-            to="#staff"
+            
+            to="/#zorn"
             className="btn btn-outline"
           >
             Back

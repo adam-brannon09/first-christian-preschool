@@ -38,8 +38,8 @@ function MuphyBio() {
             watching NY Giants football, traveling, and shopping!!
           </p>
           <Link
-            onClick={() => window.history.back()}
-            to="#staff"
+            // onClick={() => window.history.back()}
+            to="/#murphy"
             className="btn btn-outline"
           >
             Back

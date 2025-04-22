@@ -27,8 +27,8 @@ function KingBio() {
             grow each day!
           </p>
           <Link
-            onClick={() => window.history.back()}
-            to="#staff"
+            
+            to="/#king"
             className="btn btn-outline"
           >
             Back

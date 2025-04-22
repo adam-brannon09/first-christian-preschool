@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import MrsEdwards from "../../assets/teacherHeadshots/edwardsHeadshot.jpg";
 function Edwards() {
   return (
-    <div className="card bg-base-100 w-96 shadow-xl">
+    <div className="card bg-base-100 w-96 shadow-xl" id="edwards">
           <figure className="aspect-[4/5] w-full overflow-hidden">
             <img src={MrsEdwards} alt="Teacher" />
           </figure>

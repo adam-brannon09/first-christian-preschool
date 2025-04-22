@@ -24,8 +24,8 @@ function EdwardsBio() {
             excited to learn and grow with our students!
           </p>
           <Link
-            onClick={() => window.history.back()}
-            to="#staff"
+            
+            to="/#edwards"
             className="btn btn-outline"
           >
             Back

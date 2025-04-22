@@ -23,8 +23,8 @@ function DeramusBio() {
             children this year!
           </p>
           <Link
-            onClick={() => window.history.back()}
-            to="#staff"
+            
+            to="/#deramus"
             className="btn btn-outline"
           >
             Back

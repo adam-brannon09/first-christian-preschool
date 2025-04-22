@@ -19,8 +19,8 @@ function KandyBio() {
             part of this team!
           </p>
           <Link
-            onClick={() => window.history.back()}
-            to="#staff"
+            
+            to="/#kandy"
             className="btn btn-outline"
           >
             Back

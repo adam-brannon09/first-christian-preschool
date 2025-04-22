@@ -21,8 +21,8 @@ function WilsonBio() {
             this school and can’t wait to start this chapter!
           </p>
           <Link
-            onClick={() => window.history.back()}
-            to="#staff"
+            
+            to="/#wilson"
             className="btn btn-outline"
           >
             Back

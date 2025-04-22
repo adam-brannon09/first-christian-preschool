@@ -21,8 +21,8 @@ function WrightBio() {
             begin!
           </p>
           <Link
-            onClick={() => window.history.back()}
-            to="#staff"
+            
+            to="/#wright"
             className="btn btn-outline"
           >
             Back

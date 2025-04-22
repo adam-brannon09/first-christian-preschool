@@ -23,8 +23,8 @@ function BelleBio() {
             children!
           </p>
           <Link
-            onClick={() => window.history.back()}
-            to="#staff"
+            
+            to="/#belle"
             className="btn btn-outline"
           >
             Back

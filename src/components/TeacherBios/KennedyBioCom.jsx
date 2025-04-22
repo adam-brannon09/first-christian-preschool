@@ -23,8 +23,8 @@ function KennedyBio() {
             and I look forward to teaching your children this year!
           </p>
           <Link
-            onClick={() => window.history.back()}
-            to="#staff"
+            
+            to="/#kennedy"
             className="btn btn-outline"
           >
             Back

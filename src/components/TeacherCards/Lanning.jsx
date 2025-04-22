@@ -3,7 +3,7 @@ import Lindsey from "../../assets/newHeadshots/lindseyHeadshot.jpg";
 
 function Jami() {
   return (
-    <div className="card bg-base-100 w-96 shadow-xl">
+    <div className="card bg-base-100 w-96 shadow-xl" id="lanning">
           <figure className="aspect-[4/5] w-full overflow-hidden">
             <img src={Lindsey} alt="Teacher" />
           </figure>

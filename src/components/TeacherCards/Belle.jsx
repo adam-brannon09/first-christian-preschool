@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import MrsBelle from "../../assets/teacherHeadshots/Belle.jpg";
 function Belle() {
   return (
-    <div className="card bg-base-100 w-96 shadow-xl">
+    <div className="card bg-base-100 w-96 shadow-xl" id="belle">
           <figure className="aspect-[4/5] w-full overflow-hidden">
             <img src={MrsBelle} alt="Teacher" />
           </figure>
