@@ -22,23 +22,20 @@ function Staff() {
       <section className="flex flex-wrap my-10">
       
         
-          <div className="mx-auto my-auto my-4"><Murphy/></div>
+          <div className="mx-auto my-4"><Murphy/></div>
           <div className="mx-auto my-4"><Kimberlyn /></div>
+          <div className="mx-auto my-4"><Mccullough /></div>
           <div className="mx-auto my-4"><Edwards /></div>
           <div className="mx-auto my-4"><Kennedy /></div>
-          <div className="mx-auto my-4"><Jami /></div>
+          <div className="mx-auto my-4"><King /></div>
           <div className="mx-auto my-4"><Kandy /></div>
           <div className="mx-auto my-4"><DeRamus /></div>
-          <div className="mx-auto my-4"><Zorn /></div>
-          <div className="mx-auto my-4"><Wilson /></div>
-          <div className="mx-auto my-4"><Mccullough /></div>
+          <div className="mx-auto my-4"><Lanning /></div>
           <div className="mx-auto my-4"><Lloyd/></div>
           <div className="mx-auto my-4"><Belle /></div>
-          <div className="mx-auto my-4"><Lanning /></div>
-          <div className="mx-auto my-4"><King /></div>
+          <div className="mx-auto my-4"><Wilson /></div>
+          <div className="mx-auto my-4"><Zorn /></div>
 
-          {/* <div className="mx-auto my-4"><Givens /></div> */}
-          
        
         </section>
       </div>

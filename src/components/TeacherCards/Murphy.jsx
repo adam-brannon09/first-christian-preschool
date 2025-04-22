@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 function Murphy() {
   return (
     <div className="card bg-base-100 w-96 shadow-xl">
-          <figure>
+          <figure className="aspect-[4/5] w-full overflow-hidden">
             <img src={April} alt="Teacher" />
           </figure>
           <div className="card-body">

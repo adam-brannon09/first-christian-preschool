@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom";
-import MrsKing from "../../assets/teacherHeadshots/kingHeadshot.jpg";
+import MrsKing from "../../assets/newHeadshots/kingHeadshot.jpg";
 
 function King() {
   return (
     <div className="card bg-base-100 w-96 shadow-xl">
-    <figure>
+    <figure className="aspect-[4/5] w-full overflow-hidden">
       <img src={MrsKing} alt="Teacher"/>
     </figure>
     <div className="card-body">

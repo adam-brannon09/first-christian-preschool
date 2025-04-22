@@ -3,7 +3,7 @@ import MrsLloyd from "../../assets/teacherHeadshots/katelynHeadshot.jpg";
 function Lloyd() {
   return (
     <div className="card bg-base-100 w-96 shadow-xl">
-          <figure>
+          <figure className="aspect-[4/5] w-full overflow-hidden">
             <img src={MrsLloyd} alt="Teacher" />
           </figure>
           <div className="card-body">

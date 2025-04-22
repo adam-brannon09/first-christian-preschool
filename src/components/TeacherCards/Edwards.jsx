@@ -4,7 +4,7 @@ import MrsEdwards from "../../assets/teacherHeadshots/edwardsHeadshot.jpg";
 function Edwards() {
   return (
     <div className="card bg-base-100 w-96 shadow-xl">
-          <figure>
+          <figure className="aspect-[4/5] w-full overflow-hidden">
             <img src={MrsEdwards} alt="Teacher" />
           </figure>
           <div className="card-body">

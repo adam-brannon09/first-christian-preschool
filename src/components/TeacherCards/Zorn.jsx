@@ -5,7 +5,7 @@ import MrsZorn from "../../assets/teacherHeadshots/zornHeadshot.jpg";
 function Zorn() {
   return (
     <div className="card bg-base-100 w-96 shadow-xl">
-          <figure>
+          <figure className="aspect-[4/5] w-full overflow-hidden">
             <img src={MrsZorn} alt="Teacher" />
           </figure>
           <div className="card-body">
