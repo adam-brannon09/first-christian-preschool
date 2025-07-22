@@ -1,5 +1,5 @@
 
-import April from "../../assets/teacherHeadshots/AprilHeadshot.jpg";
+import April from "../../assets/newHeadshots/AprilHeadshot.jpg";
 import { Link } from "react-router-dom";
 
 function Murphy() {

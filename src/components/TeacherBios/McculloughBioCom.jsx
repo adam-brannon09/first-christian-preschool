@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Sandy from "../../assets/teacherHeadshots/mcculloughHeadshot.jpg";
+import Sandy from "../../assets/newHeadshots/Sandy.jpg";
 
 function McculloughBio() {
   return (

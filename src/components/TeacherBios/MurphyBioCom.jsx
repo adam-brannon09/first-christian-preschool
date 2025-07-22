@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import April from "../../assets/teacherHeadshots/AprilHeadshot.jpg";
+import April from "../../assets/newHeadshots/AprilHeadshot.jpg";
 
 function MuphyBio() {
   return (

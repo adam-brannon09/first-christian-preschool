@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Kristen from "../../assets/teacherHeadshots/kennedyHeadshot.jpg";
+import Kristen from "../../assets/newHeadshots/KennedyHeadshot.jpg";
 
 function KennedyBio() {
   return (

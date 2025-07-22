@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import Kymberlyn from "../../assets/teacherHeadshots/kimberlynHeadshot.jpg";
+import Kymberlyn from "../../assets/newHeadshots/WrightHeadshot.jpg";
 
 function Wright() {
   return (

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import MrsZorn from "../../assets/teacherHeadshots/zornHeadshot.jpg";
+import MrsZorn from "../../assets/newHeadshots/ZornHeadshot.jpg";
 
 
 function Zorn() {
