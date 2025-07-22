@@ -47,12 +47,13 @@ function Navbar() {
                             <details>
                                 <summary>Resources</summary>
                                 <ul className="p-2">
+                                <li><Link to='/attendance'>VPK Attendance</Link></li>
                                     <li><a href={Calender} target="_blank">School Calender</a></li>
                                     <li><a href={Handbook} target="_blank">VPK Handbook</a></li>
                                     <li><a href={Aftercare} target="_blank">Aftercare Handbook</a></li>
                                     <li><a href={Rates} target="_blank">Tuition</a></li>
                                     <li><a href={SupplyList} target="_blank">Supply List</a></li>
-                                    <li><a href="https://www.remind.com/apps">Remind App</a></li>
+                                    <li><a href="https://www.classdojo.com/" target="_blank">ClassDojo App</a></li>
                                     <li><a href="https://familyservices.floridaearlylearning.com/">ELC (VPK)</a></li>
                                 </ul>
                             </details>
@@ -71,12 +72,13 @@ function Navbar() {
                             <details>
                                 <summary>Resources</summary>
                                 <ul className="pr-4">
+                                    <li><Link to='/attendance'>VPK Attendance</Link></li>
                                     <li><a href={Calender} target="_blank">School Calender</a></li>
                                     <li><a href={Handbook} target="_blank">Parent/Student Handbook</a></li>
                                     <li><a href={Aftercare} target="_blank">Aftercare Handbook</a></li>
                                     <li><a href={Rates} target="_blank">Tuition</a></li>
                                     <li><a href={SupplyList} target="_blank">Supply List</a></li>
-                                    <li><a href="https://www.remind.com/apps">Remind App</a></li>
+                                    <li><a href="https://www.classdojo.com/" target="_blank">ClassDojo</a></li>
                                     <li><a href="https://familyservices.floridaearlylearning.com/">ELC (VPK)</a></li>
                                 </ul>
                             </details>
