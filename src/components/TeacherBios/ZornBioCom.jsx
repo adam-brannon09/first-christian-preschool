@@ -10,7 +10,7 @@ function ZornBio() {
           <h1 className="text-5xl font-bold">Mrs. Zorn</h1>
           <p className="py-6 text-lg">
             Hi! My name is Cheryl Zorn, and I am an Afterschool Teacher here at
-            First Christian Preschool. I have been married for 43 years, and
+            First Christian Preschool. I have been married for 50 years, and
             have two children, four grandchildren and five great grandchildren.
             I was in the business world for 30 years. The highlights of my
             career have been in office administration and accounting management.
