@@ -43,6 +43,7 @@ function Navbar() {
                         <li><Link to='/#staff'>Our Teachers</Link></li>
                         <li><Link to='/programs'>Programs & Tuition</Link></li>
                         <li><Link to='/#enrollment'>Enrollment</Link></li>
+                        {/* <li><Link to='gallery'>Gallery</Link></li> */}
                         <li><Link to='/#contact'>Get In Touch</Link></li>
                             <details>
                                 <summary>Resources</summary>
@@ -67,6 +68,7 @@ function Navbar() {
                         <li><Link to='/#staff'>Our Teachers</Link></li>
                         <li><Link to='/programs'>Programs & Tuition</Link></li>
                         <li><Link to='/#enrollment'>Enrollment</Link></li>
+                        {/* <li><Link to='gallery'>Gallery</Link></li> */}
                         <li><Link to='/#contact'>Get In Touch</Link></li>
                         <li tabIndex={0}>
                             <details>
