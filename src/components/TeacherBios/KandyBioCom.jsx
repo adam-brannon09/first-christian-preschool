@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Kandy from "../../assets/teacherHeadshots/kandyHeadshot.jpg";
+import Kandy from "../../assets/newHeadshots/Kandy.jpg";
 
 function KandyBio() {
   return (

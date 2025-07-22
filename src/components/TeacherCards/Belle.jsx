@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import MrsBelle from "../../assets/teacherHeadshots/Belle.jpg";
+import MrsBelle from "../../assets/newHeadshots/Belle.jpg";
 function Belle() {
   return (
     <div className="card bg-base-100 w-96 shadow-xl" id="belle">

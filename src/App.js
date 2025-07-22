@@ -3,7 +3,7 @@ import BelleBio from './pages/BelleBio';
 import Deramus from './pages/DeramusBio';
 import Kennedy from './pages/KennedyBio';
 import Kandy from './pages/KandyBio';
-import Edwards from './pages/EdwardsBio';
+import Abbey from './pages/AbbeyBio';
 import Lloyd from './pages/LloydBio';
 import Lanning from './pages/LanningBio';
 import King from './pages/KingBio';
@@ -27,7 +27,7 @@ function App() {
         <Route path='/deramusbio' element={<Deramus />} />
         <Route path='/kennedybio' element={<Kennedy />} />
         <Route path='/kandybio' element={<Kandy />} />
-        <Route path='/edwardsBio' element={<Edwards />} />
+        <Route path='/abbeybio' element={<Abbey />} />
         <Route path='/lloydbio' element={<Lloyd />} />
         <Route path='/lanningbio' element={<Lanning />} />
         <Route path='/mcculloughbio' element={<Mccullough />} />

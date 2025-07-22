@@ -1,17 +1,17 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import Edwards from '../components/TeacherBios/EdwardsBioCom'
+import Abbey from '../components/TeacherBios/AbbeyBioCom'
 
-function EdwardsBio() {
+function AbbeyBio() {
   return (
     <div>
             <Navbar />
-            <Edwards />
+            <Abbey />
             <Footer />
         </div>
   )
 }
 
-export default EdwardsBio
+export default AbbeyBio
 
