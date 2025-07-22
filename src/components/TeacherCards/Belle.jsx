@@ -7,7 +7,7 @@ function Belle() {
             <img src={MrsBelle} alt="Teacher" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Belle Lloyd <br /> 2's Teacher </h2>
+            <h2 className="card-title">Belle Lloyd <br /> Three's Teacher </h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
                     <Link to='/belleBio' className="btn btn-outline text-white">Belle's Bio</Link>

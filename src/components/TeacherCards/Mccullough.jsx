@@ -7,7 +7,7 @@ function Mccullough() {
             <img src={MrsMccullough} alt="Teacher"/>
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Sandy McCullough <br /> Assistant Director </h2>
+            <h2 className="card-title">Sandy McCullough <br />Event Coordinator/VPK Teacher</h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
                     <Link to='/mcculloughBio' className="btn btn-outline text-white">Sandy's Bio</Link>

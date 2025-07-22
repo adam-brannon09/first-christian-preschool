@@ -25,7 +25,7 @@ function Staff() {
           <div className="mx-auto my-4"><Kimberlyn /></div>
           <div className="mx-auto my-4"><Wilson /></div>
           <div className="mx-auto my-4"><Kennedy /></div>
-          <div className="mx-auto my-4"><Edwards /></div>
+          {/* <div className="mx-auto my-4"><Edwards /></div> */}
           <div className="mx-auto my-4"><King /></div>
           <div className="mx-auto my-4"><DeRamus /></div>
           <div className="mx-auto my-4"><Lanning /></div>

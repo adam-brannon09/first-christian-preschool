@@ -10,8 +10,7 @@ function Zorn() {
           </figure>
           <div className="card-body">
             <h2 className="card-title">
-              Cheryl Zorn <br /> Afterschool Teacher
-            </h2>
+              Cheryl Zorn <br /> Afterschool Teacher</h2>
             {/* <h2 className="card-title">FCP Director</h2> */}
             {/* <p>This is teachers bio</p> */}
             <div className="card-actions justify-end">
