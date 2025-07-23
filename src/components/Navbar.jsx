@@ -2,10 +2,10 @@ import { Link } from "react-router-dom";
 import Logo from "../assets/fcp_logo.png"
 import { FaEnvelope, FaPhoneAlt } from 'react-icons/fa'
 import Calender from "../assets/documents/fcpCalendar.pdf"
-import Handbook from "../assets/documents/vpkHandbook.pdf"
+import Handbook from "../assets/documents/ParentStudentHandbook25-26.pdf"
 import Aftercare from "../assets/documents/aftercareHandbook.pdf"
-import SupplyList from "../assets/documents/schoolSupplyList.pdf"
-import Rates from "../assets/documents/rates.pdf"
+import SupplyList from "../assets/documents/SchoolSupplyList25-26.pdf"
+import Rates from "../assets/documents/Rates25-26.pdf"
 import Enrollment from "../assets/documents/enrollment.pdf"
 
 function Navbar() {
