@@ -1,7 +1,9 @@
 import { Link } from "react-router-dom";
 import Logo from "../assets/fcp_logo.png"
 import { FaEnvelope, FaPhoneAlt } from 'react-icons/fa'
-import Calender from "../assets/documents/fcpCalendar.pdf"
+import Calender from "../assets/documents/VPK Calendar 2526.pdf"
+import DolphinGiraffeCalender from "../assets/documents/Dolphin and Giraffe Calendar.pdf"
+import OwlBeeCalender from "../assets/documents/Owl and Bee Calendar.pdf"
 import Handbook from "../assets/documents/ParentStudentHandbook25-26.pdf"
 import Aftercare from "../assets/documents/aftercareHandbook.pdf"
 import SupplyList from "../assets/documents/SchoolSupplyList25-26.pdf"
@@ -48,8 +50,11 @@ function Navbar() {
                             <details>
                                 <summary>Resources</summary>
                                 <ul className="p-2">
-                                <li><Link to='/attendance'>VPK Attendance</Link></li>
-                                    <li><a href={Calender} target="_blank">School Calender</a></li>
+                                
+                                    <li><a href={OwlBeeCalender} target="_blank">Owl and Bee Calender</a></li>
+                                    <li><a href={DolphinGiraffeCalender} target="_blank">Dolphin and Giraffe Calender</a></li>
+                                    <li><a href={Calender} target="_blank">VPK Calender</a></li>
+                                    <li><Link to='/attendance'>VPK Attendance</Link></li>
                                     <li><a href={Handbook} target="_blank">VPK Handbook</a></li>
                                     <li><a href={Aftercare} target="_blank">Aftercare Handbook</a></li>
                                     <li><a href={Rates} target="_blank">Tuition</a></li>
@@ -74,8 +79,11 @@ function Navbar() {
                             <details>
                                 <summary>Resources</summary>
                                 <ul className="pr-4">
+                                    
+                                    <li><a href={OwlBeeCalender} target="_blank">Owl's and Bee's Calender</a></li>
+                                    <li><a href={DolphinGiraffeCalender} target="_blank">Dolphin's and Giraffe's Calender</a></li>
+                                    <li><a href={Calender} target="_blank">VPK Calender</a></li>
                                     <li><Link to='/attendance'>VPK Attendance</Link></li>
-                                    <li><a href={Calender} target="_blank">School Calender</a></li>
                                     <li><a href={Handbook} target="_blank">Parent/Student Handbook</a></li>
                                     <li><a href={Aftercare} target="_blank">Aftercare Handbook</a></li>
                                     <li><a href={Rates} target="_blank">Tuition</a></li>
