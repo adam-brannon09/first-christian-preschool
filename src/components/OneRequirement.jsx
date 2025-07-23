@@ -8,7 +8,7 @@ function OneRequirement() {
           className="collapse-title bg-white font-bold text-xl"
           style={{ color: "#ff6f61" }}
         >
-          1 Year Old Class
+          Bees Classroom
         </div>
         <div
           className="collapse-content bg-white "

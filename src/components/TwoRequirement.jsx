@@ -5,7 +5,7 @@ function TwoRequirement() {
       <div className="collapse mt-5">
         <input type="checkbox" className="peer" />
         <div className="collapse-title bg-white font-bold text-xl" style={{ color: "#ff6f61" }}>
-          2 Year Old Class
+          Owls Classrom
         </div>
         <div
           className="collapse-content bg-white "
