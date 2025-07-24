@@ -20,14 +20,14 @@ function VerticalContact() {
                 <br />
                 <div className="stat-value text-2xl">Opening Hours</div>
                 <div className="stat-desc text-2xl">Monday to Friday</div>
-                <div className="stat-desc text-2xl">7:00 - 5:30</div>
+                <div className="stat-desc text-2xl">9:00 - 4:30</div>
             </div>
 
             <div className="stat">
                 <FaAddressBook className="text-3xl icon" />
                 <br />
                 <div className="stat-value text-2xl">Contact</div>
-                <a href="tel:8509511225" className="stat-desc text-2xl">850 951-1225</a>
+                <a href="tel:8505202167" className="stat-desc text-2xl">(850)520-2167</a>
                 <a href="mailto:aprilmurphyfcp@gmail.com" className="stat-desc text-2xl">aprilmurphyfcp@gmail.com</a>
             </div>
 

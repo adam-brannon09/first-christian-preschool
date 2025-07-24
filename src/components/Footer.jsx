@@ -16,13 +16,13 @@ function Footer() {
                 </nav>
                 <nav>
                     <header className="footer-title font-bold">Contact</header>
-                    <a href="tel:8509511225" className="link link-hover">(850) 951-1225</a>
+                    <a href="tel:8505202167" className="link link-hover">(850) 520-2167</a>
                     <a href="mailto:aprilmurphyfcp@gmail.com" className="link link-hover" >Email</a>
                     <a href="https://www.facebook.com/firstchristianpreschool.net" className="link link-hover">Facebook</a>
                 </nav>
                 <nav>
-                    <header className="footer-title">Hours</header>
-                    <p>Monday - Friday: 7am - 5:30pm</p>
+                    <header className="footer-title">Office Hours</header>
+                    <p>Monday - Friday: 9am - 4pm</p>
                     <br />
                     <header className="footer-title">License</header>
                     <p>License #: C01WA0018</p>
