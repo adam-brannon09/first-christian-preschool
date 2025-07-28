@@ -8,7 +8,7 @@ function Kandy() {
             <img src={MrsKandy} alt="Teacher"/>
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Kandy Kaminski<br /> Two's Teacher </h2>
+            <h2 className="card-title">Kandy Kaminski<br /> Owl's Class </h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
                     <Link to='kandyBio' className="btn btn-outline text-white">Kandy's' Bio</Link>

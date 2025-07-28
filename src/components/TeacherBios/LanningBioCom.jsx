@@ -9,17 +9,12 @@ function LanningBio() {
         <div>
           <h1 className="text-5xl font-bold">Mrs. Lanning</h1>
           <p className="py-6">
-            My name is Kristen Kennedy, and I am the Threes A teacher here at
-            First Christian Preschool. I married my wonderful husband, Eric
-            Kennedy, in November of 2018. I have lived in Florida my whole life,
-            and currently live in Ponce De Leon with my husband, our cat, Pixie,
-            and our dogs, Luna and Kya! My husband and I are both members of our
-            home church, First Baptist Church in Ponce de Leon. I received an
-            Associate Degree in Christian Education in 2015 and I received a
-            Florida Child Care Professional Credential in 2020. . I love to
-            spend time with my family, baking, and traveling. I am so excited
-            and honored to be part of First Christian Preschool, and I am
-            looking forward to teaching your children this year!
+            Hi! My name is Lindsey, and this is my second year as the Lead Teacher in the Threes class here at First Christian Preschool.
+I’ve been part of the FCP family for three years, first as a parent and now as a teacher. My two sons, Tucker and Landon, have absolutely loved their time here, and it’s been such a joy to watch them grow in this nurturing environment.
+Before joining the FCP team, I spent five wonderful years as a stay-at-home mom. Life with two energetic boys has kept my hands full of sports, outdoor adventures, and plenty of sunshine! If the weather is nice, chances are you’ll find us outside enjoying nature.
+In my free time, I enjoy traveling, crafting, gardening, and raising chickens. I love finding creativity and peace in the little things.
+I feel incredibly blessed to be part of this amazing preschool and look forward to a wonderful year of learning, growing, and making special memories with your children!
+
           </p>
           <Link to="/#lanning" className="btn btn-outline">Back</Link>
         </div>

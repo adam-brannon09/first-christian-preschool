@@ -7,7 +7,7 @@ function Lloyd() {
             <img src={MrsLloyd} alt="Teacher" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Katelyn Lloyd <br /> Three's Teacher </h2>
+            <h2 className="card-title">Katelyn Lloyd <br /> Afternoon Teacher </h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
                     <Link to='/lloydBio' className="btn btn-outline text-white">Katelyn's Bio</Link>

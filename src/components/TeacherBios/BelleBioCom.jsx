@@ -9,24 +9,21 @@ function BelleBio() {
         <div>
           <h1 className="text-5xl font-bold">Mrs. Lloyd</h1>
           <p className="py-6">
-            Hi my name is Belle Lloyd and I am the Two’s teacher at First
-            Christian Preschool. I have been working in childcare for the past 3
-            years and have loved every minute of it! I was born and raised in
-            DeFuniak Springs and am so excited to be back after being in
-            Pensacola for the past 4 years. I love animals and have two dogs,
-            Circe and Winnie, a cat named Toro, and a crested gecko named
-            Astrid! I have 5 siblings and love spending time with them. I have
-            always loved learning from and teaching children! Children see the
-            world in such interesting ways and are a joy to watch learn and to
-            learn from them. I am so excited for the journey that I will have at
-            this wonderful school and all the things I will learn from your
-            children!
+            Hello! My name is Belle Lloyd, and I am the Preschool Assistant here
+            at First Christian Preschool. I have been working in childcare for
+            the past four years and have truly loved every minute of it! I was
+            born and raised right here in DeFuniak Springs and recently returned
+            after spending a few years in Pensacola. I absolutely love animals—I
+            have three dogs, two cats, and two hamsters! I also come from a big
+            family with five siblings, and we enjoy spending time together,
+            especially going on fun trips. Working with children has always been
+            a passion of mine. I love how they view the world with such wonder
+            and curiosity. Every day brings something new to learn—both for them
+            and for me! I’m so excited to be part of this amazing school and
+            can’t wait to see what this journey brings. I look forward to
+            learning and growing alongside your children!
           </p>
-          <Link
-            
-            to="/#belle"
-            className="btn btn-outline"
-          >
+          <Link to="/#belle" className="btn btn-outline">
             Back
           </Link>
         </div>

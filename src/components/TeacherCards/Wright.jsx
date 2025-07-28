@@ -9,7 +9,7 @@ function Wright() {
             <img src={Kymberlyn} alt="Teacher"/>
           </figure>
           <div className="card-body">
-            <h2 className="card-title">Kymberlyn Wright <br /> FCP Coordinator/VPK Teacher</h2>
+            <h2 className="card-title">Kymberlyn Wright <br /> FCP Manager/VPK Teacher</h2>
             {/* <p>This is a teachers bio</p> */}
             <div className="card-actions justify-end">
             <Link to='/wrightBio' className="btn btn-outline text-white">Kymberlyn's Bio</Link>

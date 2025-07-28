@@ -8,23 +8,22 @@ function WilsonBio() {
         <img src={Brittany} className="max-w-sm rounded-lg shadow-2xl" />
         <div>
           <h1 className="text-5xl font-bold">Mrs. Wilson</h1>
+          <br />
           <p className="py-6 text-lg">
-            Hello! My name is Brittany Wilson and I am a Preschool Assistant
-            here at First Christian Preschool! After my oldest son attended FCP,
-            we immediately fell in love with this staff and atmosphere! I am
-            thankful to watch my boys grow up and be a part of the FCP family. I
-            was born and raised in Florida! My husband and I , who are high
-            school sweethearts, have been married since 2016 and we enjoy our
-            two boys: Easton and Fletcher. We enjoy life on our farm in Mossy
-            Head where we love all things outdoors! From our buggy rides,
-            hunting, fishing and camping adventures. I am so excited to join
-            this school and can’t wait to start this chapter!
+            Hello! My name is Brittany Wilson, and I am the Administrative Aide
+            here at First Christian Preschool! Our family fell in love with FCP
+            after our oldest son began attending, and it brings me so much joy
+            to now be part of the amazing staff. I feel truly blessed to watch
+            my boys grow up surrounded by the love and care of the FCP & FCA
+            family. I was born and raised right here in Florida! My husband and
+            I are high school sweethearts and have been married since 2016.
+            Together, we’re raising two wonderful boys—Easton and Fletcher. We
+            live on a farm in Mossy Head and enjoy all things outdoors—from
+            buggy rides and hunting to fishing and camping. I am so excited to
+            be part of this school and feel honored to support our families,
+            staff, and students each day at First Christian Preschool!
           </p>
-          <Link
-            
-            to="/#wilson"
-            className="btn btn-outline"
-          >
+          <Link to="/#wilson" className="btn btn-outline">
             Back
           </Link>
         </div>

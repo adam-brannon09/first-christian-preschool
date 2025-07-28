@@ -9,20 +9,21 @@ function KandyBio() {
         <div>
           <h1 className="text-5xl font-bold">Mrs. Kaminski</h1>
           <p className="py-6 text-lg">
-            Hello, my name is Kandy Kaminski and I am an Afterschool teacher
-            here at First Christian Preschool. I spent the first half of my life
-            in Northeastern Pennsylvania and then moved to Freeport in 2001. I
-            married my husband in 2014 and together we enjoy our son, Josiah.
-            I’ve worked in various fields throughout the years such as
-            childcare, accounting, security and construction. I like to combine
-            learning with the performing arts and fun! It’s an honor to be a
-            part of this team!
+            Originally from Northeastern Pennsylvania, I made the move to
+            Freeport, Florida in 2001. My husband, Raul Gabriel, and I enjoy
+            life in the beautiful Eucheeanna Valley with our son, Josiah. Over
+            the years, I’ve had the opportunity to work in a variety of fields
+            including childcare, accounting, security, and construction. These
+            experiences have shaped who I am, but my heart has always been in
+            early childhood education. I love spending time outdoors and have a
+            passion for the performing arts. In the classroom, I enjoy blending
+            fun and learning—watching young children grow and discover brings me
+            so much joy. This will be my 4th year at First Christian Preschool,
+            and I’m so grateful to be a part of this amazing team. I truly
+            consider it an honor to help guide and care for your little ones
+            each day!
           </p>
-          <Link
-            
-            to="/#kandy"
-            className="btn btn-outline"
-          >
+          <Link to="/#kandy" className="btn btn-outline">
             Back
           </Link>
         </div>

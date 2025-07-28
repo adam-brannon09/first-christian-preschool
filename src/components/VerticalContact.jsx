@@ -20,7 +20,7 @@ function VerticalContact() {
                 <br />
                 <div className="stat-value text-2xl">Opening Hours</div>
                 <div className="stat-desc text-2xl">Monday to Friday</div>
-                <div className="stat-desc text-2xl">9:00 - 4:30</div>
+                <div className="stat-desc text-2xl">9:00a - 4:00p</div>
             </div>
 
             <div className="stat">
