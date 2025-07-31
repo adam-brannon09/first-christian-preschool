@@ -7,7 +7,7 @@ function DeramusBio() {
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img src={Chelsea} className="max-w-sm rounded-lg shadow-2xl" />
         <div>
-          <h1 className="text-5xl font-bold">Mrs. Deramus</h1>
+          <h1 className="text-5xl font-bold">Mrs. Boyaval</h1>
           <p className="py-6">
             Hi! My name is Chelsea, and I am so excited to be a teacher here at
             First Christian Preschool! I’ve been working in childcare since 2018
