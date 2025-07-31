@@ -28,7 +28,7 @@ function VerticalContact() {
                 <br />
                 <div className="stat-value text-2xl">Contact</div>
                 <a href="tel:8505202167" className="stat-desc text-2xl">(850)520-2167</a>
-                <a href="mailto:aprilmurphyfcp@gmail.com" className="stat-desc text-2xl">aprilmurphyfcp@gmail.com</a>
+                <a href="mailto:aprilmurphyfcp@gmail.com" className="stat-desc text-2xl font-semibold">Email</a>
             </div>
 
         </div>

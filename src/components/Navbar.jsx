@@ -61,6 +61,7 @@ function Navbar() {
                                     <li><a href={SupplyList} target="_blank">Supply List</a></li>
                                     <li><a href="https://www.classdojo.com/" target="_blank">ClassDojo App</a></li>
                                     <li><a href="https://familyservices.floridaearlylearning.com/">ELC (VPK)</a></li>
+                                    <li><Link to='/kicknflips'>Kickin'Flips</Link></li>
                                 </ul>
                             </details>
                         </ul>
@@ -90,6 +91,7 @@ function Navbar() {
                                     <li><a href={SupplyList} target="_blank">Supply List</a></li>
                                     <li><a href="https://www.classdojo.com/" target="_blank">ClassDojo</a></li>
                                     <li><a href="https://familyservices.floridaearlylearning.com/">ELC (VPK)</a></li>
+                                    <li><Link to='/kicknflips'>Kickin'Flips</Link></li>
                                 </ul>
                             </details>
                         </li>

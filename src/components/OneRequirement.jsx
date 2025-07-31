@@ -15,10 +15,13 @@ function OneRequirement() {
           style={{ color: "#ff6f61" }}
         >
           <ul className="list-disc ml-5 text-[#ff6f61]">
-            <li>Must be 1 Year old by September 1st</li>
-            <li>Must be walking, free of pacifiers & bottles</li>
-            <li>Parents provide 2 snacks and a lunch</li>
-            <li>$100 enrollment fee</li>
+            <li>Parents provide diapers and wipes</li>
+            <li>Parents provide adequate change of clothes</li>
+            <li>Parents provide a thermos with ice water daily</li>
+            <li>Parents provide 2 snacks and a lunch daily</li>
+            <li>Hours: 7a-5:30p M-F</li>
+            <li>$100 Enrollment Fee</li>
+            <li>$115 Curriculum Fee</li>
           </ul>
         </div>
       </div>

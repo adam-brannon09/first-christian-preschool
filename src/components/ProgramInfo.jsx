@@ -6,29 +6,31 @@ function ProgramInfo() {
           {/* Full Time Program */}
           <div className="card bg-white shadow-md p-6 rounded-xl">
             <h2 className="card-title text-2xl mb-2">Full Time Program</h2>
-            <p>
+            <ul>
+            <li className="list-disc ml-5 space-y-1">
               Childcare is available <strong>Monday – Friday</strong> between the hours of <strong>7:00 a.m. – 5:30 p.m.</strong> from <strong>August through May</strong>.
-            </p>
-            <p>
+            </li>
+            <li className="list-disc ml-5 space-y-1">
               During <strong>June and July</strong>, hours are <strong>7:00 a.m. – 5:00 p.m.</strong>
-            </p>
-            <p className="mt-2 font-semibold">Instructional time begins at 8:30 a.m.</p>
+            </li>
+            <li className="list-disc ml-5 space-y-1">Instructional time begins at <strong>8:30 a.m.</strong></li>
+            </ul>
           </div>
   
           {/* Part Time Program */}
           <div className="card bg-white shadow-md p-6 rounded-xl">
             <h2 className="card-title text-2xl mb-2">Part Time Program</h2>
-            <p>
+            <li className="list-disc ml-5 space-y-1">
               Childcare is available on <strong>Thursday/Friday</strong> or <strong>Monday/Tuesday/Wednesday</strong> between <strong>7:00 a.m. – 5:30 p.m.</strong> during <strong>August through May</strong>,
               and <strong>7:00 a.m. – 5:00 p.m.</strong> during <strong>June and July</strong>.
-            </p>
-            <p className="mt-2">Part-time VPK: <strong>8:30 a.m. – 11:30 a.m.</strong></p>
-            <p className="mt-2 font-semibold">Instructional time begins at 8:30 a.m.</p>
+            </li>
+            <li className="list-disc ml-5 space-y-1">Part-time VPK: <strong>8:30 a.m. – 11:30 a.m.</strong></li>
+            <li className="list-disc ml-5 space-y-1">Instructional time begins at <strong>8:30 a.m.</strong></li>
           </div>
   
           {/* Monthly Payments */}
           <div className="card bg-white shadow-md p-6 rounded-xl">
-            <h2 className="card-title text-2xl mb-4">Monthly Tuition</h2>
+            <h2 className="card-title text-2xl mb-4">Monthly Tuition (Daycare and VPK Aftercare)</h2>
             <ul className="list-disc ml-5 space-y-1">
               <li><strong>One Year Olds</strong> – $850/month <span className="italic">(Must be one by Sept. 1st)</span></li>
               <li><strong>Two Year Olds</strong> – $775/month <span className="italic">(Must be two by Sept. 1st)</span></li>

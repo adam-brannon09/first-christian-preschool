@@ -15,6 +15,7 @@ import ZornBio from './pages/ZornBio';
 import Programs from './pages/Programs';
 import Attendance from './pages/Attendance'
 import Gallery from './pages/Gallery';
+import KicknFlips from './pages/KicknFlips'
 import NotFound from './pages/NotFound';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import GoogleFontLoader from 'react-google-fonts';
@@ -41,6 +42,7 @@ function App() {
         <Route path='/programs' element={<Programs />}/>
         <Route path='/attendance' element={<Attendance />}></Route>
         <Route path='/gallery' element={<Gallery />}></Route>
+        <Route path='/kicknflips' element={<KicknFlips />}></Route>
 
         <Route path='/*' element={<NotFound />} />
       </Routes>
